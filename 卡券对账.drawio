@@ -34,10 +34,10 @@
           <mxGeometry height="30" width="78.75" x="201.25" y="110" as="geometry" />
         </mxCell>
         <mxCell id="903qH56VKoaQItWsz41_-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F3FF;strokeColor=#1E88E5;" value="PID关联" vertex="1">
-          <mxGeometry height="30" width="60" x="500" y="110" as="geometry" />
+          <mxGeometry height="30" width="60" x="490" y="110" as="geometry" />
         </mxCell>
         <mxCell id="903qH56VKoaQItWsz41_-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F3FF;strokeColor=#1E88E5;" value="商户号区域补充" vertex="1">
-          <mxGeometry height="30" width="80" x="600" y="110" as="geometry" />
+          <mxGeometry height="30" width="70" x="560" y="110" as="geometry" />
         </mxCell>
         <mxCell id="903qH56VKoaQItWsz41_-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6F3FF;strokeColor=#1E88E5;" value="活动管理" vertex="1">
           <mxGeometry height="30" width="80" x="360" y="40" as="geometry" />
