@@ -32,7 +32,7 @@
           <mxGeometry height="60" width="120" x="240" y="75" as="geometry" />
         </mxCell>
         <mxCell id="1BAZin0CetIOIzounU-U-15" parent="77e6c97f196da883-2" style="rounded=0;whiteSpace=wrap;html=1;" value="合并/修改" vertex="1">
-          <mxGeometry height="60" width="120" x="240" y="160" as="geometry" />
+          <mxGeometry height="60" width="120" x="240" y="165" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" parent="77e6c97f196da883-1" style="swimlane;html=1;startSize=20;fillColor=#D4E8D4;" value="平台操作" vertex="1">
           <mxGeometry height="720" width="430" x="390" y="20" as="geometry" />
@@ -41,27 +41,22 @@
           <mxGeometry height="60" width="120" x="140" y="320" as="geometry" />
         </mxCell>
         <mxCell id="1BAZin0CetIOIzounU-U-10" parent="77e6c97f196da883-3" style="rounded=0;whiteSpace=wrap;html=1;" value="客户管理 商户号信息补充" vertex="1">
-          <mxGeometry height="60" width="120" x="130" y="205" as="geometry" />
+          <mxGeometry height="60" width="120" x="70" y="55" as="geometry" />
         </mxCell>
         <mxCell id="1BAZin0CetIOIzounU-U-16" parent="77e6c97f196da883-3" style="rounded=0;whiteSpace=wrap;html=1;" value="制券商 手工新增" vertex="1">
           <mxGeometry height="60" width="120" x="220" y="35" as="geometry" />
         </mxCell>
-        <mxCell id="1BAZin0CetIOIzounU-U-18" edge="1" parent="77e6c97f196da883-3" source="1BAZin0CetIOIzounU-U-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1BAZin0CetIOIzounU-U-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="185" />
-              <mxPoint x="190" y="185" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="1BAZin0CetIOIzounU-U-25" edge="1" parent="77e6c97f196da883-3" source="1BAZin0CetIOIzounU-U-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1BAZin0CetIOIzounU-U-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BAZin0CetIOIzounU-U-17" parent="77e6c97f196da883-3" style="rounded=0;whiteSpace=wrap;html=1;" value="CRM合同每日&lt;br&gt;同步解析" vertex="1">
-          <mxGeometry height="60" width="120" x="250" y="115" as="geometry" />
+          <mxGeometry height="60" width="120" x="240" y="125" as="geometry" />
         </mxCell>
         <mxCell id="1BAZin0CetIOIzounU-U-19" parent="77e6c97f196da883-3" style="rounded=0;whiteSpace=wrap;html=1;" value="商户号冲突/商户名称" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="45" as="geometry" />
+          <mxGeometry height="60" width="120" x="60" y="165" as="geometry" />
         </mxCell>
         <mxCell id="1BAZin0CetIOIzounU-U-21" parent="77e6c97f196da883-3" style="rounded=0;whiteSpace=wrap;html=1;" value="账单未能匹配&lt;br&gt;商户号" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="115" as="geometry" />
+          <mxGeometry height="60" width="120" x="60" y="235" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" parent="77e6c97f196da883-1" style="swimlane;html=1;startSize=20;fillColor=#E1D5E7;" value="数据库" vertex="1">
           <mxGeometry height="720" width="230" x="820" y="20" as="geometry" />
@@ -88,7 +83,10 @@
           <mxGeometry height="60" width="120" x="50" y="320" as="geometry" />
         </mxCell>
         <mxCell id="1BAZin0CetIOIzounU-U-23" parent="77e6c97f196da883-4" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" value="活动和批次下&lt;br&gt;的商户表" vertex="1">
-          <mxGeometry height="65" width="105" x="75" y="45" as="geometry" />
+          <mxGeometry height="65" width="105" x="57.5" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAZin0CetIOIzounU-U-24" parent="77e6c97f196da883-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="有了新的PID&lt;br/&gt;就创建媒体主/门店" vertex="1">
+          <mxGeometry height="25" width="190" x="80" y="35" as="geometry" />
         </mxCell>
         <mxCell id="1BAZin0CetIOIzounU-U-5" edge="1" parent="77e6c97f196da883-1" source="1BAZin0CetIOIzounU-U-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1BAZin0CetIOIzounU-U-4">
           <mxGeometry relative="1" as="geometry" />
@@ -96,11 +94,11 @@
         <mxCell id="1BAZin0CetIOIzounU-U-8" edge="1" parent="77e6c97f196da883-1" source="1BAZin0CetIOIzounU-U-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1BAZin0CetIOIzounU-U-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1BAZin0CetIOIzounU-U-11" edge="1" parent="77e6c97f196da883-1" source="1BAZin0CetIOIzounU-U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1BAZin0CetIOIzounU-U-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1BAZin0CetIOIzounU-U-20" edge="1" parent="77e6c97f196da883-1" source="1BAZin0CetIOIzounU-U-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1BAZin0CetIOIzounU-U-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1BAZin0CetIOIzounU-U-27" edge="1" parent="77e6c97f196da883-1" source="1BAZin0CetIOIzounU-U-15" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1BAZin0CetIOIzounU-U-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="245" as="sourcePoint" />
+            <mxPoint x="420" y="195" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
