@@ -161,15 +161,15 @@
         <mxCell id="CYMku2zRE5arxmSb1d2H-61" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=6;targetPerimeterSpacing=6;" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1135.9299999999998" y="421" />
-              <mxPoint x="1135.9299999999998" y="421" />
+              <mxPoint x="1147.9299999999998" y="421" />
+              <mxPoint x="1147.9299999999998" y="421" />
             </Array>
-            <mxPoint x="1135.9299999999998" y="431" as="sourcePoint" />
-            <mxPoint x="1135.9299999999998" y="397" as="targetPoint" />
+            <mxPoint x="1147.9299999999998" y="431" as="sourcePoint" />
+            <mxPoint x="1147.9299999999998" y="397" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="Write" vertex="1">
-          <mxGeometry height="20" width="20" x="1100" y="406" as="geometry" />
+          <mxGeometry height="20" width="20" x="1120" y="406" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-65" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=6;targetPerimeterSpacing=6;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -196,6 +196,12 @@
             <mxPoint x="1217.5" y="399" as="sourcePoint" />
             <mxPoint x="1217.5" y="433" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-73" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Iconoir_Vol_3-2341/light-bulb-on-1199.svg" value="" vertex="1">
+          <mxGeometry height="45" width="45" x="1114.5" y="456" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Reasoning" vertex="1">
+          <mxGeometry height="30" width="60" x="1192" y="463.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
