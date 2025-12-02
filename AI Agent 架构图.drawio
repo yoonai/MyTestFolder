@@ -35,7 +35,7 @@
           <mxGeometry height="80" width="130" x="349" y="153" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-16" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Tweet_Scotty-2186/twitterbot-561.png" value="" vertex="1">
-          <mxGeometry height="79" width="79" x="640" y="203.5" as="geometry" />
+          <mxGeometry height="79" width="79" x="670" y="210" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-17" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/WHCompare_Isometric_Web_Hosting___Servers-2190/connected-globe-603.svg" value="" vertex="1">
           <mxGeometry height="80" width="80" x="660" y="78" as="geometry" />
@@ -45,6 +45,21 @@
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-20" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="30" x="520" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="Environment/People" vertex="1">
+          <mxGeometry height="30" width="120" x="580" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Agent&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="720" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Brain(Controller)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="950" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Action&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="540" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Perception&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="950" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
