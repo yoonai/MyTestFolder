@@ -22,6 +22,18 @@
         <mxCell id="CYMku2zRE5arxmSb1d2H-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value=".&quot;An autonomous agent is a system situated within and a part of an environment thatsenses that environment and acts on it, over time, in pursuit of its own agenda and so asto effect what it senses in the future”&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Franklin and Graesser(1997)" vertex="1">
           <mxGeometry height="30" width="346" x="384" y="-100" as="geometry" />
         </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="A general framework ofagent" vertex="1">
+          <mxGeometry height="30" width="250" x="280" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-13" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Tweet_Scotty-2186/twitterbot-561.png" value="" vertex="1">
+          <mxGeometry height="79" width="79" x="300" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="Other Agent" vertex="1">
+          <mxGeometry height="30" width="120" x="270" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-15" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;direction=east;align=center;spacingBottom=16;" value="we can do it&lt;br&gt;together......" vertex="1">
+          <mxGeometry height="80" width="130" x="349" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
