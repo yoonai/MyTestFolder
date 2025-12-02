@@ -212,8 +212,17 @@
             <mxPoint x="938" y="283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CYMku2zRE5arxmSb1d2H-80" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg;strokeWidth=0.5;" value="" vertex="1">
-          <mxGeometry height="102" width="102" x="840" y="218" as="geometry" />
+        <mxCell id="CYMku2zRE5arxmSb1d2H-80" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg;strokeWidth=0.5;dashed=1;dashPattern=8 8;fillOpacity=100;" value="" vertex="1">
+          <mxGeometry height="112" width="112" x="837.5" y="206.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-81" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="870" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-82" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="870" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-83" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.heart" value="" vertex="1">
+          <mxGeometry height="15" width="15" x="905" y="255" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
