@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="第 1 页" id="cegyQLPn0nDP2q9yQ2kh">
-    <mxGraphModel dx="3204" dy="2417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2564" dy="2219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="420.5" width="221.25" x="158.75" y="30" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-119" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
-          <mxGeometry height="120" width="120" x="1440" y="100" as="geometry" />
+          <mxGeometry height="130" width="140" x="1420" y="90" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="140" width="237" x="1053" y="80" as="geometry" />
@@ -376,6 +376,12 @@
             <mxPoint x="-340" y="-170" as="sourcePoint" />
             <mxPoint x="1760" y="-170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-132" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" value="" vertex="1">
+          <mxGeometry height="70" width="60" x="1443" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Embedding" vertex="1">
+          <mxGeometry height="30" width="70" x="1470" y="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
