@@ -19,6 +19,9 @@
         <mxCell id="CYMku2zRE5arxmSb1d2H-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingTop=0;spacing=2;spacingBottom=6;" value="1.环境感知：通过视觉传感器、语音接口等多模态”感官“实时获取环境数据&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2.智能决策：运用深度学习模型和强化学习算法进行复杂决策&lt;br&gt;3.任务执行：可调用API工具库或操控物理设备完成实际工作&lt;br&gt;4.持续进化：具备自主学习和迁移学习能力，实现性能的持续提升&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="400" x="-220" y="60" as="geometry" />
         </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value=".&quot;An autonomous agent is a system situated within and a part of an environment thatsenses that environment and acts on it, over time, in pursuit of its own agenda and so asto effect what it senses in the future”&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Franklin and Graesser(1997)" vertex="1">
+          <mxGeometry height="30" width="346" x="384" y="-100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
