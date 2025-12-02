@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CYMku2zRE5arxmSb1d2H-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="360" x="890" y="310" as="geometry" />
+          <mxGeometry height="80" width="420" x="890" y="310" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="600" width="480" x="-240" y="-120" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry height="30" width="60" x="908" y="360" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="360" x="890" y="440" as="geometry" />
+          <mxGeometry height="80" width="420" x="890" y="440" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;资源支撑能力、能力更新资源&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="170" x="1440" y="445" as="geometry" />
@@ -107,6 +107,27 @@
             <mxPoint x="930" y="397" as="sourcePoint" />
             <mxPoint x="930" y="431" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Planning" vertex="1">
+          <mxGeometry height="30" width="60" x="968" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Memory" vertex="1">
+          <mxGeometry height="30" width="60" x="1000" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Notes" vertex="1">
+          <mxGeometry height="30" width="60" x="1100" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Knowsledge" vertex="1">
+          <mxGeometry height="30" width="60" x="1190" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-52" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.clock;" value="" vertex="1">
+          <mxGeometry height="35" width="35" x="1010" y="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-53" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D4D4D;strokeColor=none;dashed=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.notebook;" value="" vertex="1">
+          <mxGeometry height="37" width="32.26" x="1109.07" y="323" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-54" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pen;direction=east;" value="" vertex="1">
+          <mxGeometry height="20.7" width="10" x="1132" y="335" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
