@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="第 1 页" id="cegyQLPn0nDP2q9yQ2kh">
-    <mxGraphModel dx="1281" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1869" dy="1799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CYMku2zRE5arxmSb1d2H-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="600" width="480" x="-240" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Agent的概念" vertex="1">
+          <mxGeometry height="40" width="240" x="-120" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Agent：Agent（智能体或代理）是人工智能领域中的核心概念，指能够感知环境、自主决策并执行任务以实现特定模板的智能实体。简单来讲，可以理解它是代理你去做一些事情。" vertex="1">
+          <mxGeometry height="80" width="430" x="-220" y="-50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
