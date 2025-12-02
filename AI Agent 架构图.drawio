@@ -275,7 +275,7 @@
             <mxPoint x="961.4707317073171" y="249.50000000000023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CYMku2zRE5arxmSb1d2H-103" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;size=10;position=0.08;position2=0;base=20;rotation=0;rounded=1;" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp; Thought:There&#39;s no current date in the&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;knowledge base,&amp;nbsp; &amp;nbsp; &amp;nbsp;I need to query the tool&lt;/span&gt;" vertex="1">
+        <mxCell id="CYMku2zRE5arxmSb1d2H-103" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;size=10;position=0.08;position2=0;base=20;rotation=0;rounded=1;" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp; Thought:There&#39;s no current date in the knowledge base,&amp;nbsp; &amp;nbsp; &amp;nbsp;I&amp;nbsp; &amp;nbsp; &amp;nbsp;need to query the tool&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="330" x="1060" y="239" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-104" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=20;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
