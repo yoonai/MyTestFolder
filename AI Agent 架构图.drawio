@@ -266,10 +266,10 @@
         <mxCell id="CYMku2zRE5arxmSb1d2H-99" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Evericons_24px_Vol_2-2248/music-note-627.svg" value="" vertex="1">
           <mxGeometry height="31" width="31" x="1109" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="CYMku2zRE5arxmSb1d2H-101" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=20;fillColor=#1ba1e2;strokeColor=#006EAF;" target="CYMku2zRE5arxmSb1d2H-80" value="">
+        <mxCell id="CYMku2zRE5arxmSb1d2H-101" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=20;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1000.5" y="147" as="sourcePoint" />
-            <mxPoint x="943" y="200" as="targetPoint" />
+            <mxPoint x="993" y="153" as="sourcePoint" />
+            <mxPoint x="961.4707317073171" y="199.50000000000023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-103" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;size=10;position=0.08;position2=0;base=20;rotation=0;rounded=1;" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp;Thought:There&#39;s no current date in the&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;knowledge base, I need to query the tool&lt;/span&gt;" vertex="1">
