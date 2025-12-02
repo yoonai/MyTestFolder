@@ -29,7 +29,7 @@
           <mxGeometry height="80" width="420" x="1018" y="453" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="834.5" width="480" x="-330" y="-114.5" as="geometry" />
+          <mxGeometry height="884.5" width="480" x="-330" y="-114.5" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" value="Agent的概念" vertex="1">
           <mxGeometry height="40" width="240" x="-210" y="-104.5" as="geometry" />
@@ -38,13 +38,13 @@
           <mxGeometry height="80" width="430" x="-310" y="-44.5" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;" value="【Agent的四大核心能力】" vertex="1">
-          <mxGeometry height="30" width="380" x="-340" y="70" as="geometry" />
+          <mxGeometry height="50" width="380" x="-340" y="70" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingTop=0;spacing=2;spacingBottom=6;fontSize=35;" value="1.环境感知：通过视觉传感器、语音接口等多模态”感官“实时获取环境数据&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2.智能决策：运用深度学习模型和强化学习算法进行复杂决策&lt;br&gt;3.任务执行：可调用API工具库或操控物理设备完成实际工作&lt;br&gt;4.持续进化：具备自主学习和迁移学习能力，实现性能的持续提升&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="597.97" width="440" x="-315" y="90" as="geometry" />
+          <mxGeometry height="617.5" width="440" x="-315" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="CYMku2zRE5arxmSb1d2H-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value=".&quot;An autonomous agent is a system situated within and a part of an environment thatsenses that environment and acts on it, over time, in pursuit of its own agenda and so asto effect what it senses in the future”&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Franklin and Graesser(1997)" vertex="1">
-          <mxGeometry height="30" width="346" x="384" y="-100" as="geometry" />
+        <mxCell id="CYMku2zRE5arxmSb1d2H-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value=".&quot;An autonomous agent is a system situated within and a part of an environment thatsenses that environment and acts on it, over time, in pursuit of its own agenda and so asto effect what it senses in the future”&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Franklin and Graesser(1997)" vertex="1">
+          <mxGeometry height="30" width="806" x="384" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=25;" value="A general framework of agent" vertex="1">
           <mxGeometry height="30" width="370" x="200" y="-20" as="geometry" />
@@ -70,8 +70,8 @@
         <mxCell id="CYMku2zRE5arxmSb1d2H-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="Environment/People" vertex="1">
           <mxGeometry height="30" width="120" x="580" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="CYMku2zRE5arxmSb1d2H-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Agent&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="700" y="240" as="geometry" />
+        <mxCell id="CYMku2zRE5arxmSb1d2H-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=20;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Agent&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="715.54" y="243.5" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Brain(Controller)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="1128" y="423" as="geometry" />
@@ -332,7 +332,8 @@
         <mxCell id="CYMku2zRE5arxmSb1d2H-125" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#b1ddf0;strokeColor=#99CCFF;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="690" />
+              <mxPoint x="370" y="690" />
+              <mxPoint x="360" y="550" />
               <mxPoint x="400" y="410" />
               <mxPoint x="640" y="380" />
               <mxPoint x="670" y="320" />
@@ -343,10 +344,14 @@
               <mxPoint x="1630" y="40" />
               <mxPoint x="1750" y="220" />
               <mxPoint x="1730" y="460" />
+              <mxPoint x="1690" y="720" />
             </Array>
-            <mxPoint x="1500" y="840" as="sourcePoint" />
-            <mxPoint x="1510" y="850" as="targetPoint" />
+            <mxPoint x="1470" y="720" as="sourcePoint" />
+            <mxPoint x="1480" y="720" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="AI Agent = 大脑（LLM）+ 记忆 + 工具使用 + 规划" vertex="1">
+          <mxGeometry height="30" width="490" x="671.5" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
