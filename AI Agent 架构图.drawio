@@ -26,13 +26,25 @@
           <mxGeometry height="30" width="250" x="280" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-13" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Tweet_Scotty-2186/twitterbot-561.png" value="" vertex="1">
-          <mxGeometry height="79" width="79" x="300" y="170" as="geometry" />
+          <mxGeometry height="79" width="79" x="290.5" y="223" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="Other Agent" vertex="1">
-          <mxGeometry height="30" width="120" x="270" y="40" as="geometry" />
+          <mxGeometry height="30" width="120" x="270" y="103" as="geometry" />
         </mxCell>
         <mxCell id="CYMku2zRE5arxmSb1d2H-15" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;direction=east;align=center;spacingBottom=16;" value="we can do it&lt;br&gt;together......" vertex="1">
-          <mxGeometry height="80" width="130" x="349" y="90" as="geometry" />
+          <mxGeometry height="80" width="130" x="349" y="153" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-16" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Tweet_Scotty-2186/twitterbot-561.png" value="" vertex="1">
+          <mxGeometry height="79" width="79" x="640" y="203.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-17" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/WHCompare_Isometric_Web_Hosting___Servers-2190/connected-globe-603.svg" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="660" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-18" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;direction=east;align=left;spacingBottom=16;spacingLeft=26;" value="what&#39;s the date&lt;br&gt;today？" vertex="1">
+          <mxGeometry height="80" width="130" x="550" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMku2zRE5arxmSb1d2H-20" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="30" x="520" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
