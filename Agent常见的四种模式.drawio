@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="第 1 页" id="ehylZdIhhzYCIYbY_rqr">
-    <mxGraphModel dx="1493" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF203C;" value="" vertex="1">
+          <mxGeometry height="230" width="400" x="1952" y="760" as="geometry" />
+        </mxCell>
         <mxCell id="C3xcWwxsuO8kcDxwInLp-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="680" width="1440" x="190" y="570" as="geometry" />
         </mxCell>
@@ -72,6 +75,30 @@
         </mxCell>
         <mxCell id="C3xcWwxsuO8kcDxwInLp-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;“工具调用——AI的”瑞士金刀“&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;AI调用外部工具（比如计算器、翻译软件）&lt;/span&gt;" vertex="1">
           <mxGeometry height="135" width="280" x="2740" y="732.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Web Search Tool" vertex="1">
+          <mxGeometry height="30" width="160" x="2030" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Code execution tool" vertex="1">
+          <mxGeometry height="30" width="189" x="2430" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-115" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1970" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="You" vertex="1">
+          <mxGeometry height="30" width="60" x="2000" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="What is the best coffee maker according to your retrieves ?" vertex="1">
+          <mxGeometry height="30" width="332" x="2020" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-size: 16px; line-height: 28px; overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;copilot&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2008" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Searching for best coffee maker according to your retrieves" vertex="1">
+          <mxGeometry height="30" width="332" x="2020" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-121" parent="1" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.access_control_using_trustsec;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1970" y="900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
