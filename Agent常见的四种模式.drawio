@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="第 1 页" id="ehylZdIhhzYCIYbY_rqr">
-    <mxGraphModel dx="834" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,10 +68,10 @@
           <mxGeometry height="30" width="180" x="1880" y="590" as="geometry" />
         </mxCell>
         <mxCell id="C3xcWwxsuO8kcDxwInLp-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" value="" vertex="1">
-          <mxGeometry height="140" width="320" x="2580" y="715" as="geometry" />
+          <mxGeometry height="140" width="320" x="2710" y="730" as="geometry" />
         </mxCell>
         <mxCell id="C3xcWwxsuO8kcDxwInLp-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;“工具调用——AI的”瑞士金刀“&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;AI调用外部工具（比如计算器、翻译软件）&lt;/span&gt;" vertex="1">
-          <mxGeometry height="135" width="280" x="2610" y="717.5" as="geometry" />
+          <mxGeometry height="135" width="280" x="2740" y="732.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
