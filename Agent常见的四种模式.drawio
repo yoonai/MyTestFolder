@@ -80,7 +80,7 @@
           <mxGeometry height="135" width="280" x="2900" y="747.5" as="geometry" />
         </mxCell>
         <mxCell id="C3xcWwxsuO8kcDxwInLp-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Web Search Tool" vertex="1">
-          <mxGeometry height="30" width="160" x="2030" y="700" as="geometry" />
+          <mxGeometry height="30" width="160" x="1958" y="700" as="geometry" />
         </mxCell>
         <mxCell id="C3xcWwxsuO8kcDxwInLp-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="Code execution tool" vertex="1">
           <mxGeometry height="30" width="189" x="2430" y="700" as="geometry" />
@@ -114,6 +114,18 @@
         </mxCell>
         <mxCell id="C3xcWwxsuO8kcDxwInLp-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#82AEDA;" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;principal = 100&lt;br&gt;interest_rate = 0.07&lt;br&gt;years = 12&lt;br&gt;value = principal*(1 + interest_rate)**years&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="2490" y="862" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-129" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Analysis&lt;/h1&gt;&lt;p&gt;• Code Execution&lt;/p&gt;&lt;p&gt;• Wolfram Alpha&lt;/p&gt;&lt;p&gt;• Bearly Code Interpreter&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="1920" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-130" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Research&lt;/h1&gt;&lt;p&gt;• Search engine&lt;/p&gt;&lt;p&gt;• Web browsing&lt;/p&gt;&lt;p&gt;• Wikipedia&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="2118" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-131" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Productivity&lt;/h1&gt;&lt;p&gt;• Email&lt;/p&gt;&lt;p&gt;• Calendar&lt;/p&gt;&lt;p&gt;• Cloud Storage&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="2350" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-132" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Images&lt;/h1&gt;&lt;p&gt;• Image generation (e.g., Dall-E )&lt;/p&gt;&lt;p&gt;• Image captioning&lt;/p&gt;&lt;p&gt;• Object detection&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="2590" y="955" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
