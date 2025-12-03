@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="第 1 页" id="ehylZdIhhzYCIYbY_rqr">
-    <mxGraphModel>
+    <mxGraphModel dx="992" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="680" width="1440" x="190" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=1;fontSize=12;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="170" as="sourcePoint" />
+            <mxPoint x="2350" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-76" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;strong style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-weight: 700; line-height: 28px; overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0) !important;&quot;&gt;人工智能能力层级演进的架构图&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="50" width="335" x="1140" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;fontStyle=1" value="Agent常见的四种模式" vertex="1">
+          <mxGeometry height="30" width="440" x="420" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-88" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;吴恩达总结的四种模式：&lt;br&gt;1）Reflection【反馈模式】：通过模型自身反思来改进任务的执行，例如react、self-refine、refine属于该类&lt;br&gt;2）Tool Use 【工具调用】：涉及模型调用外部工具或者库来解决任务&lt;br&gt;3）Planning【规划模式】：提前计划和组织步骤来提升效率和准确率&lt;br&gt;4）Multi-agent collaboration【多智能体协作】：涉及多个智能体进行协作来提升任务执行能力，例如A2A协议属于解决该类问题的协议&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="420" width="1790" x="250" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontColor=#1BA1E2;" value="1.Reflection" vertex="1">
+          <mxGeometry height="30" width="110" x="270" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" value="" vertex="1">
+          <mxGeometry height="140" width="320" x="1081" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;自我反思-AI的”复盘能力“&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;AI自己发现问题并改进（比如写代码时自动修正bug）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="135" width="280" x="1111" y="852.5" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-97" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" value="" vertex="1">
+          <mxGeometry height="50" width="47.5" x="270" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-98" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=center;size=10;position=0.08;position2=0;base=20;rotation=0;rounded=1;" value="Please write code for {task)" vertex="1">
+          <mxGeometry height="60" width="330" x="350" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-99" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="40" x="650" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-101" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=center;size=20;position=0.48;position2=0.5;base=20;rotation=-180;rounded=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="44" width="240" x="340" y="848" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="def do_tak(x): ..." vertex="1">
+          <mxGeometry height="30" width="146" x="360" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-103" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=center;size=20;position=0.48;position2=0.5;base=20;rotation=-180;rounded=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="44" width="240" x="340" y="918" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="def do_tak(x)_v2: ..." vertex="1">
+          <mxGeometry height="30" width="146" x="360" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-105" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=center;size=20;position=0.48;position2=0.5;base=20;rotation=-180;rounded=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="44" width="240" x="340" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="def do_tak(x)_v3 : ..." vertex="1">
+          <mxGeometry height="30" width="146" x="360" y="997" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-107" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=center;size=10;position=0.08;position2=0;base=20;rotation=0;rounded=1;" value="There&#39;s a bug on line 5,Fix it by ..." vertex="1">
+          <mxGeometry height="60" width="330" x="730" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-108" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=center;size=10;position=0.08;position2=0;base=20;rotation=0;rounded=1;" value="It failed Unit Test3. Try changing ..." vertex="1">
+          <mxGeometry height="60" width="330" x="730" y="937" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontColor=#1BA1E2;" value="2.Tool use" vertex="1">
+          <mxGeometry height="30" width="180" x="1880" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=2;" value="" vertex="1">
+          <mxGeometry height="140" width="320" x="2580" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;“工具调用——AI的”瑞士金刀“&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;AI调用外部工具（比如计算器、翻译软件）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="135" width="280" x="2610" y="717.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
