@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="第 1 页" id="ehylZdIhhzYCIYbY_rqr">
-    <mxGraphModel dx="868" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,17 +115,17 @@
         <mxCell id="C3xcWwxsuO8kcDxwInLp-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontColor=#82AEDA;" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;principal = 100&lt;br&gt;interest_rate = 0.07&lt;br&gt;years = 12&lt;br&gt;value = principal*(1 + interest_rate)**years&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="2490" y="862" as="geometry" />
         </mxCell>
-        <mxCell id="C3xcWwxsuO8kcDxwInLp-129" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Analysis&lt;/h1&gt;&lt;p&gt;• Code Execution&lt;/p&gt;&lt;p&gt;• Wolfram Alpha&lt;/p&gt;&lt;p&gt;• Bearly Code Interpreter&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="1920" y="955" as="geometry" />
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-129" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Analysis（分析类）&lt;/h1&gt;&lt;p&gt;• Code Execution 代码执行&lt;/p&gt;&lt;p&gt;• Wolfram Alpha&amp;nbsp;沃尔夫勒姆阿尔法（计算引擎）&lt;/p&gt;&lt;p&gt;• Bearly Code Interpreter&amp;nbsp;Bearly代码解释器&lt;/p&gt;" vertex="1">
+          <mxGeometry height="145" width="240" x="1940" y="987.5" as="geometry" />
         </mxCell>
-        <mxCell id="C3xcWwxsuO8kcDxwInLp-130" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Research&lt;/h1&gt;&lt;p&gt;• Search engine&lt;/p&gt;&lt;p&gt;• Web browsing&lt;/p&gt;&lt;p&gt;• Wikipedia&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="2118" y="955" as="geometry" />
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-130" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Research（研究类）&lt;/h1&gt;&lt;p&gt;• Search engine&amp;nbsp;搜索引擎&lt;/p&gt;&lt;p&gt;• Web browsing&amp;nbsp;网页浏览&lt;/p&gt;&lt;p&gt;• Wikipedia&amp;nbsp;维基百科&lt;/p&gt;" vertex="1">
+          <mxGeometry height="125" width="240" x="2260" y="990" as="geometry" />
         </mxCell>
-        <mxCell id="C3xcWwxsuO8kcDxwInLp-131" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Productivity&lt;/h1&gt;&lt;p&gt;• Email&lt;/p&gt;&lt;p&gt;• Calendar&lt;/p&gt;&lt;p&gt;• Cloud Storage&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="2350" y="955" as="geometry" />
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-131" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Productivity（生产力类）&lt;/h1&gt;&lt;p&gt;• Email&amp;nbsp;电子邮件&lt;/p&gt;&lt;p&gt;• Calendar 日历&lt;/p&gt;&lt;p&gt;• Cloud Storage 云存储&lt;/p&gt;" vertex="1">
+          <mxGeometry height="135" width="290" x="2580" y="987.5" as="geometry" />
         </mxCell>
-        <mxCell id="C3xcWwxsuO8kcDxwInLp-132" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Images&lt;/h1&gt;&lt;p&gt;• Image generation (e.g., Dall-E )&lt;/p&gt;&lt;p&gt;• Image captioning&lt;/p&gt;&lt;p&gt;• Object detection&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="2590" y="955" as="geometry" />
+        <mxCell id="C3xcWwxsuO8kcDxwInLp-132" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Images（图像类）&lt;/h1&gt;&lt;p&gt;• Image generation (e.g., Dall-E )&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;图像生成（例如：Dall-E）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;• Image captioning&amp;nbsp;图像描述&lt;/p&gt;&lt;p&gt;• Object detection&amp;nbsp;目标检测&lt;/p&gt;" vertex="1">
+          <mxGeometry height="145" width="330" x="2940" y="990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
